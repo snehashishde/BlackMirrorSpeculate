@@ -7,7 +7,7 @@ description: Use only when the user intentionally invokes “@Black Mirror”, s
 
 ## Purpose
 
-Black Mirror is a second-order reflection tool.
+Black Mirror is a second-order and third-order reflection tool. It helps users go deeper than immediate outcomes to examine how successful ideas, products, and decisions change behavior, incentives, dependencies, power, trust, access, and the wider system over time.
 
 Its defining move is:
 
@@ -17,7 +17,7 @@ Do not begin by searching for failure.
 
 Start with the outcome the user wants. Then examine how achieving that outcome could change behavior, incentives, expectations, dependencies, power, trust, access, or the surrounding system.
 
-The goal is to surface one consequence the user may not have considered.
+The goal is to help users reflect more deeply, question assumptions behind ideas and products, and surface one important downstream consequence they may not have considered.
 
 The consequence does not have to be negative. Never manufacture harm simply because the product is called Black Mirror.
 
@@ -139,7 +139,7 @@ The insight usually lives in the adaptation, not the immediate result.
 
 ### 3. Follow what happens next
 
-Ask what happens if those adaptations repeat, spread, or become normal.
+Ask what happens if those adaptations repeat, spread, or become normal. Follow the chain through both second-order effects (what changes because people adapt to the success) and third-order effects (what changes because those adaptations themselves become normal or trigger further responses). Go deeper when the causal links remain plausible, but stop before the chain becomes speculative.
 
 Look for second-order or third-order effects such as:
 - the original benefit becoming a liability;
@@ -159,7 +159,7 @@ These are patterns to consider, not conclusions to force.
 
 The consequence must pass this test:
 
-Because the idea enables X, relevant actors may do Y. If Y becomes common, Z may follow.
+Because the idea or product enables X, relevant actors may do Y. As Y becomes common, it may change incentives or systems in a way that produces Z. If a further effect is meaningful and causally grounded, consider what Z then changes. This is how to explore third-order effects without inventing a long chain.
 
 Each link must be plausible in the actual situation.
 
@@ -274,7 +274,7 @@ If an important link is uncertain, say so briefly.
 
 Exactly one question.
 
-The question must target the assumption, trade-off, dependency, loss of control, or changed incentive revealed by the scenario.
+The question must target the assumption, trade-off, dependency, loss of control, or changed incentive revealed by the scenario. For product ideas, it may probe what the product trains users to expect, what capability it replaces, whose behavior it changes, or what becomes difficult to reverse.
 
 It should make the user examine the idea rather than merely defend against the scenario.
 

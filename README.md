@@ -28,6 +28,17 @@ Copy the contents of [SKILL.md](skills/black-mirror/SKILL.md) into the instructi
 
 This repository publishes the prompt and documentation. It does not, by itself, publish or change the visibility of any separate ChatGPT plugin.
 
+
+## Independence, limitations, and rights
+
+**Independent project notice:** This is an independently created project. It is not affiliated with, endorsed by, or sponsored by Netflix, the television series *Black Mirror*, or OpenAI. The name is used as this project's identifier, not to claim any relationship with those parties. This notice does not establish trademark clearance or eliminate the possibility of a naming conflict.
+
+**Reflection, not professional advice:** Outputs are AI-generated possibilities, not predictions or established facts. They may be incomplete, inaccurate, or unsuitable for a particular situation. Do not rely on them as legal, medical, financial, safety, or other professional advice. Users should apply their own judgment and seek qualified help where appropriate.
+
+**No warranty:** To the maximum extent permitted by applicable law, this project and its outputs are provided “as is” and without warranties of any kind. Nothing in this notice excludes liability where it cannot lawfully be excluded.
+
+**Reuse rights:** The current `LICENSE` file says “All rights reserved” and does not grant an open-source license. A public GitHub repository is not, by itself, permission to copy, modify, redistribute, or commercially reuse its contents. Do not describe this repository as open source until the rights holder chooses and adds an appropriate open-source license, and confirms that all included material can be licensed that way.
+
 ## License
 
 See [LICENSE](LICENSE) for the repository's current rights notice.

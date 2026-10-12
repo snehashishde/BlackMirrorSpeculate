@@ -1,12 +1,12 @@
 {
   "name": "speculateai",
   "version": "1.4.0",
-  "description": "Assume an idea succeeds, trace second- and third-order effects, and identify the worst plausible downstream scenario.",
+  "description": "Invoke with @SpeculateAI to assume an idea succeeds, trace second- and third-order effects, and identify the worst plausible downstream scenario.",
   "skills": "./skills/",
   "interface": {
     "displayName": "SpeculateAI",
-    "shortDescription": "See what happens after your idea succeeds",
-    "longDescription": "A reflection-only tool that assumes an idea succeeds, traces plausible second- and third-order consequences, identifies the worst plausible downstream scenario without exaggeration, explains the causal chain, and asks one sharp question. It does not provide recommendations or solutions.",
+    "shortDescription": "Invoke with @SpeculateAI",
+    "longDescription": "When the user includes @SpeculateAI, assume the idea succeeds, trace plausible second- and third-order consequences, identify the worst plausible downstream scenario without exaggeration, explain the causal chain, and ask one sharp question. Reflection only; no recommendations or solutions.",
     "category": "Productivity",
     "capabilities": [
       "Explore downstream consequences",

@@ -1,11 +1,11 @@
 {
-  "name": "branchwake-marketplace",
+  "name": "ripplelens-marketplace",
   "interface": {
-    "displayName": "Branchwake"
+    "displayName": "RippleLens"
   },
   "plugins": [
     {
-      "name": "branchwake",
+      "name": "ripplelens",
       "source": {
         "source": "local",
         "path": "./"

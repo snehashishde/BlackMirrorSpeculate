@@ -1,11 +1,11 @@
 {
-  "name": "black-mirror-marketplace",
+  "name": "branchwake-marketplace",
   "interface": {
-    "displayName": "Black Mirror"
+    "displayName": "Branchwake"
   },
   "plugins": [
     {
-      "name": "black-mirror",
+      "name": "branchwake",
       "source": {
         "source": "local",
         "path": "./"

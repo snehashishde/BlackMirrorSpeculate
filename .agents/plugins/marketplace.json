@@ -1,11 +1,11 @@
 {
-  "name": "ripplelens-marketplace",
+  "name": "black-mirror-speculate-marketplace",
   "interface": {
-    "displayName": "RippleLens"
+    "displayName": "Black Mirror Speculate"
   },
   "plugins": [
     {
-      "name": "ripplelens",
+      "name": "black-mirror-speculate",
       "source": {
         "source": "local",
         "path": "./"

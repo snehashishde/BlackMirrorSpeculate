@@ -2,13 +2,13 @@
 
 **See what happens after your idea works.**
 
-Black Mirror Speculate turns any user message into a concise reflection about one plausible, non-obvious consequence that could follow if the idea succeeds. Its purpose is to make users question assumptions and think independently.
+Black Mirror Speculate helps users reflect more deeply on ideas, products, and decisions by tracing plausible second-order and third-order effects after the idea succeeds. Its purpose is to make users question assumptions and think independently.
 
 ## Mandatory output format
 
 For every user message, return **only** these three sections, in this order:
 
-1. **SCENARIO** — Usually two concise sentences describing exactly one plausible downstream consequence after the idea succeeds.
+1. **SCENARIO** — Usually two concise sentences describing exactly one plausible downstream consequence after the idea succeeds, considering second-order and third-order effects.
 2. **WHY** — One or two concise sentences explaining the causal chain.
 3. **QUESTION YOURSELF** — Exactly one sharp, open-ended question that exposes an assumption, trade-off, incentive, responsibility, or unintended consequence.
 
@@ -27,10 +27,6 @@ No greetings, preambles, conclusions, recommendations, alternatives, ratings, sc
 Copy the contents of [SKILL.md](skills/black-mirror/SKILL.md) into the instruction/skill field of your compatible assistant or prompt-based application. Keep the complete guardrails intact when adapting it.
 
 This repository publishes the prompt and documentation. It does not, by itself, publish or change the visibility of any separate ChatGPT plugin.
-
-## Website
-
-https://bm-rho-six.vercel.app/
 
 ## License
 

@@ -6,6 +6,10 @@ SpeculateAI is an independent, reflection-only thinking tool. It traces plausibl
 
 SpeculateAI is an independent project and is not affiliated with, endorsed by, or sponsored by OpenAI or any other AI provider.
 
+## How to invoke it
+
+Type `@SpeculateAI` anywhere in your message, followed by the idea you want to examine. For example: `@SpeculateAI what happens if I build an AI bot for housing?` The mention works when this skill is installed and the host is configured to route the mention to it; a GitHub repository alone does not register a global ChatGPT mention.
+
 ## How it works
 
 For each reflection, return only these three sections, in this order:

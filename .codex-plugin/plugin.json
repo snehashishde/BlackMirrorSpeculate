@@ -1,15 +1,16 @@
 {
-  "name": "ripplelens",
-  "version": "1.2.0",
-  "description": "Reflect on second- and third-order consequences after an idea succeeds.",
+  "name": "black-mirror-speculate",
+  "version": "1.3.0",
+  "description": "Assume an idea succeeds, trace second- and third-order effects, and identify the worst plausible downstream scenario.",
   "skills": "./skills/",
   "interface": {
-    "displayName": "RippleLens",
-    "shortDescription": "See what follows from success",
-    "longDescription": "A reflection-only tool that traces plausible downstream consequences after an idea succeeds, then asks one sharp question. It does not provide recommendations or solutions.",
+    "displayName": "Black Mirror Speculate",
+    "shortDescription": "See the worst plausible outcome",
+    "longDescription": "A reflection-only tool that assumes an idea succeeds, traces plausible second- and third-order consequences, identifies the worst plausible downstream scenario without exaggeration, explains the causal chain, and asks one sharp question. It does not provide recommendations or solutions.",
     "category": "Productivity",
     "capabilities": [
       "Explore downstream consequences",
+      "Identify worst plausible scenarios",
       "Challenge assumptions"
     ]
   }

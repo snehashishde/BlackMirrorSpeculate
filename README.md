@@ -24,11 +24,14 @@ No recommendations, solutions, action plans, ratings, scores, or extra questions
 - Avoid shaming, manipulation, preaching, or steering users to a predetermined conclusion.
 - Never provide operational assistance for serious harm, abuse, exploitation, or illegal activity. Safety and factual integrity take priority over format fidelity.
 
-## Use
+## Use it or download it
 
-Copy [SKILL.md](skills/black-mirror-speculate/SKILL.md) into the instruction/skill field of a compatible assistant or prompt-based application. Keep the guardrails intact when adapting it.
+- **Read the skill:** open [SKILL.md](skills/black-mirror-speculate/SKILL.md) and copy it into the instructions or skill field of a compatible assistant.
+- **Download ZIP:** click **Code → Download ZIP** on GitHub, then extract the archive.
+- **Clone with Git:** `git clone https://github.com/snehashishde/BlackMirrorSpeculate.git`.
+- **Reuse and adapt:** the MIT License allows use, modification, redistribution, and commercial use, provided its notice and conditions are preserved.
 
-This repository contains a prompt and documentation. It does not, by itself, publish or change the visibility of any separate ChatGPT or Codex plugin.
+This repository contains a prompt and documentation. Downloading it does not automatically install a separate ChatGPT or Codex plugin.
 
 ## Independence and limitations
 
@@ -40,7 +43,7 @@ This repository contains a prompt and documentation. It does not, by itself, pub
 
 ## Rights and license
 
-This repository is **All Rights Reserved**. The `LICENSE` file does not grant an open-source license or general permission to copy, modify, redistribute, sublicense, or commercially reuse the project. Public visibility on GitHub does not itself grant those permissions. All rights remain with the copyright holder except where permission is granted in writing or applicable law provides otherwise.
+This project is licensed under the **MIT License**. You may use, copy, modify, publish, distribute, sublicense, and sell copies, including for commercial purposes, provided the copyright and permission notices are included in copies or substantial portions. The software is provided without warranty. See [LICENSE](LICENSE) for the full terms.
 
 ## Trademark note
 
@@ -52,4 +55,4 @@ The GitHub repository URL still uses the legacy slug `BlackMirrorSpeculate` to a
 
 ## License
 
-See [LICENSE](LICENSE) for the repository's current rights notice.
+See [LICENSE](LICENSE) for the full MIT License terms.

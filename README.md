@@ -53,7 +53,3 @@ This project is licensed under the **MIT License**. You may use, copy, modify, p
 
 A preliminary web search did not surface an obvious exact-match project for “SpeculateAI,” but this is not a comprehensive search of companies, software listings, domains, or trademarks. It does not establish that the name is available or legally cleared. Before investing in commercial branding, search relevant trademark databases, domains, app stores, and similar names. The [USPTO trademark search](https://tmsearch.uspto.gov/) is a starting point for U.S. federal marks.
 
-
-## License
-
-See [LICENSE](LICENSE) for the full MIT License terms.

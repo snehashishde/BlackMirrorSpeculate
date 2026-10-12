@@ -1,10 +1,10 @@
-# Black Mirror Speculate
+# SpeculateAI
 
 **See what happens after your idea works.**
 
-Black Mirror Speculate is an independent, reflection-only thinking tool. It traces plausible second-order and third-order consequences after an idea succeeds, then asks one sharp question. It does not tell users what to do, what to choose, or what to build. The user does the judging.
+SpeculateAI is an independent, reflection-only thinking tool. It traces plausible second-order and third-order consequences after an idea succeeds, then asks one sharp question. It does not tell users what to do, what to choose, or what to build. The user does the judging.
 
-This project has no affiliation with, endorsement by, or sponsorship from Netflix, the television series *Black Mirror*, or OpenAI. The name is used as the project's identifier. This notice does not establish trademark clearance or eliminate the possibility of a naming conflict.
+SpeculateAI is an independent project and is not affiliated with, endorsed by, or sponsored by OpenAI or any other AI provider.
 
 ## How it works
 
@@ -35,7 +35,7 @@ This repository contains a prompt and documentation. Downloading it does not aut
 
 ## Independence and limitations
 
-**Independent project:** Black Mirror Speculate is an independently created project. It is not affiliated with, endorsed by, or sponsored by Netflix, the *Black Mirror* television series, or OpenAI. Do not use third-party logos, show artwork, or branding that implies a relationship.
+**Independent project:** SpeculateAI is independently created and is not affiliated with, endorsed by, or sponsored by OpenAI or any other AI provider. Do not use third-party logos or branding that implies a relationship.
 
 **Reflection, not professional advice:** Outputs are AI-generated possibilities, not predictions or established facts. They may be incomplete, inaccurate, or unsuitable for a particular situation. Do not rely on them as legal, medical, financial, safety, or other professional advice.
 
@@ -45,13 +45,13 @@ This repository contains a prompt and documentation. Downloading it does not aut
 
 This project is licensed under the **MIT License**. You may use, copy, modify, publish, distribute, sublicense, and sell copies, including for commercial purposes, provided the copyright and permission notices are included in copies or substantial portions. The software is provided without warranty. See [LICENSE](LICENSE) for the full terms.
 
-## Trademark note
+## Name note
 
-The project name “Black Mirror Speculate” is a proposed distinctive working name selected to avoid relying on the title of an existing television series. A preliminary web search is not a comprehensive trademark clearance search. Before using the name commercially or investing in branding, search the relevant trademark databases and similar names, domains, app stores, and software listings; consider advice from a trademark attorney.
+A web search did not surface an obvious exact-match GitHub project named “SpeculateAI,” but that is not a comprehensive search of companies, domains, app stores, or trademarks. This check does not establish that the name is available or legally cleared. Before investing in commercial branding, search relevant trademark databases and similar names, domains, app stores, and software listings.
 
-## Repository naming
+## Repository URL
 
-The GitHub repository URL still uses the legacy slug `BlackMirrorSpeculate` to avoid breaking existing links. The project’s displayed brand and plugin metadata use **Black Mirror Speculate**. You can rename the GitHub repository later if desired, after updating external links.
+The repository currently retains its existing GitHub slug, `BlackMirrorSpeculate`. Rename it to `SpeculateAI` in GitHub repository Settings to change the URL; update any external links afterward. GitHub generally redirects the old repository URL, but links and integrations should still be checked.
 
 ## License
 

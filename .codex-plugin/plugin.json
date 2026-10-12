@@ -1,11 +1,11 @@
 {
-  "name": "black-mirror-speculate",
-  "version": "1.3.0",
+  "name": "speculateai",
+  "version": "1.4.0",
   "description": "Assume an idea succeeds, trace second- and third-order effects, and identify the worst plausible downstream scenario.",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Black Mirror Speculate",
-    "shortDescription": "See the worst plausible outcome",
+    "displayName": "SpeculateAI",
+    "shortDescription": "See what happens after your idea succeeds",
     "longDescription": "A reflection-only tool that assumes an idea succeeds, traces plausible second- and third-order consequences, identifies the worst plausible downstream scenario without exaggeration, explains the causal chain, and asks one sharp question. It does not provide recommendations or solutions.",
     "category": "Productivity",
     "capabilities": [

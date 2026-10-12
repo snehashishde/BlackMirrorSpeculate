@@ -1,10 +1,10 @@
-# RippleLens
+# Black Mirror Speculate
 
 **See what happens after your idea works.**
 
-RippleLens is an independent, reflection-only thinking tool. It traces plausible second-order and third-order consequences after an idea succeeds, then asks one sharp question. It does not tell users what to do, what to choose, or what to build. The user does the judging.
+Black Mirror Speculate is an independent, reflection-only thinking tool. It traces plausible second-order and third-order consequences after an idea succeeds, then asks one sharp question. It does not tell users what to do, what to choose, or what to build. The user does the judging.
 
-The previous working title was “Black Mirror Speculate.” This project has no affiliation with, endorsement by, or sponsorship from Netflix, the television series *Black Mirror*, or OpenAI. The new name is a working brand choice, not a claim that trademark clearance has been completed.
+This project has no affiliation with, endorsement by, or sponsorship from Netflix, the television series *Black Mirror*, or OpenAI. The name is used as the project's identifier. This notice does not establish trademark clearance or eliminate the possibility of a naming conflict.
 
 ## How it works
 
@@ -26,13 +26,13 @@ No recommendations, solutions, action plans, ratings, scores, or extra questions
 
 ## Use
 
-Copy [SKILL.md](skills/ripplelens/SKILL.md) into the instruction/skill field of a compatible assistant or prompt-based application. Keep the guardrails intact when adapting it.
+Copy [SKILL.md](skills/black-mirror-speculate/SKILL.md) into the instruction/skill field of a compatible assistant or prompt-based application. Keep the guardrails intact when adapting it.
 
 This repository contains a prompt and documentation. It does not, by itself, publish or change the visibility of any separate ChatGPT or Codex plugin.
 
 ## Independence and limitations
 
-**Independent project:** RippleLens is an independently created project. It is not affiliated with, endorsed by, or sponsored by Netflix, the *Black Mirror* television series, or OpenAI. Do not use third-party logos, show artwork, or branding that implies a relationship.
+**Independent project:** Black Mirror Speculate is an independently created project. It is not affiliated with, endorsed by, or sponsored by Netflix, the *Black Mirror* television series, or OpenAI. Do not use third-party logos, show artwork, or branding that implies a relationship.
 
 **Reflection, not professional advice:** Outputs are AI-generated possibilities, not predictions or established facts. They may be incomplete, inaccurate, or unsuitable for a particular situation. Do not rely on them as legal, medical, financial, safety, or other professional advice.
 
@@ -44,11 +44,11 @@ This repository is **All Rights Reserved**. The `LICENSE` file does not grant an
 
 ## Trademark note
 
-The project name “RippleLens” is a proposed distinctive working name selected to avoid relying on the title of an existing television series. A preliminary web search is not a comprehensive trademark clearance search. Before using the name commercially or investing in branding, search the relevant trademark databases and similar names, domains, app stores, and software listings; consider advice from a trademark attorney.
+The project name “Black Mirror Speculate” is a proposed distinctive working name selected to avoid relying on the title of an existing television series. A preliminary web search is not a comprehensive trademark clearance search. Before using the name commercially or investing in branding, search the relevant trademark databases and similar names, domains, app stores, and software listings; consider advice from a trademark attorney.
 
 ## Repository naming
 
-The GitHub repository URL still uses the legacy slug `BlackMirrorSpeculate` to avoid breaking existing links. The project’s displayed brand and plugin metadata use **RippleLens**. You can rename the GitHub repository later if desired, after updating external links.
+The GitHub repository URL still uses the legacy slug `BlackMirrorSpeculate` to avoid breaking existing links. The project’s displayed brand and plugin metadata use **Black Mirror Speculate**. You can rename the GitHub repository later if desired, after updating external links.
 
 ## License
 

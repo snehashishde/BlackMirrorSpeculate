@@ -53,9 +53,6 @@ This project is licensed under the **MIT License**. You may use, copy, modify, p
 
 A preliminary web search did not surface an obvious exact-match project for “SpeculateAI,” but this is not a comprehensive search of companies, software listings, domains, or trademarks. It does not establish that the name is available or legally cleared. Before investing in commercial branding, search relevant trademark databases, domains, app stores, and similar names. The [USPTO trademark search](https://tmsearch.uspto.gov/) is a starting point for U.S. federal marks.
 
-## Repository URL
-
-The displayed project brand and plugin metadata use **SpeculateAI**. The GitHub repository slug still uses the legacy name `BlackMirrorSpeculate`; change it under GitHub repository **Settings → General → Repository name** if you want the URL to match. Review external links and integrations after renaming.
 
 ## License
 

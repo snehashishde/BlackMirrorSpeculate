@@ -1,0 +1,20 @@
+{
+  "name": "black-mirror-marketplace",
+  "interface": {
+    "displayName": "Black Mirror"
+  },
+  "plugins": [
+    {
+      "name": "black-mirror",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "name": "branchwake",
-  "version": "1.1.0",
+  "name": "ripplelens",
+  "version": "1.2.0",
   "description": "Reflect on second- and third-order consequences after an idea succeeds.",
   "skills": "./skills/",
   "interface": {
-    "displayName": "Branchwake",
+    "displayName": "RippleLens",
     "shortDescription": "See what follows from success",
     "longDescription": "A reflection-only tool that traces plausible downstream consequences after an idea succeeds, then asks one sharp question. It does not provide recommendations or solutions.",
     "category": "Productivity",

@@ -1,11 +1,11 @@
 {
-  "name": "black-mirror-speculate-marketplace",
+  "name": "speculateai-marketplace",
   "interface": {
-    "displayName": "Black Mirror Speculate"
+    "displayName": "SpeculateAI"
   },
   "plugins": [
     {
-      "name": "black-mirror-speculate",
+      "name": "speculateai",
       "source": {
         "source": "local",
         "path": "./"

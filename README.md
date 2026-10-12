@@ -8,7 +8,7 @@ SpeculateAI is an independent project and is not affiliated with, endorsed by, o
 
 ## How to invoke it
 
-Type `@SpeculateAI` anywhere in your message, followed by the idea you want to examine. For example: `@SpeculateAI what happens if I build an AI bot for housing?` The mention works when this skill is installed and the host is configured to route the mention to it; a GitHub repository alone does not register a global ChatGPT mention.
+Type `@SpeculateAI` anywhere in your message. You can add a new idea, for example `@SpeculateAI what happens if I build an AI bot for housing?`, **or send only `@SpeculateAI`**. With no extra text, the skill uses the most recent relevant idea in the current chat. It reads only that conversation thread, not your other chats or account history. If there is no identifiable idea in the current thread, it asks one brief clarification. The mention works when this skill is installed and the host is configured to route the mention to it; a GitHub repository alone does not register a global ChatGPT mention.
 
 ## How it works
 

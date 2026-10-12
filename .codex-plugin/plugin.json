@@ -1,0 +1,16 @@
+{
+  "name": "black-mirror",
+  "version": "1.0.0",
+  "description": "Reflect on second- and third-order consequences after an idea succeeds.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Black Mirror",
+    "shortDescription": "See what happens after success",
+    "longDescription": "A reflection-only skill that traces plausible downstream consequences of an idea after it succeeds, then asks one sharp question. It does not provide recommendations or solutions.",
+    "category": "Productivity",
+    "capabilities": [
+      "Explore downstream consequences",
+      "Challenge assumptions"
+    ]
+  }
+}

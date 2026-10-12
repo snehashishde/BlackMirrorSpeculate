@@ -58,7 +58,16 @@ Ask one concise clarification only when missing information materially prevents 
 
 ## Reconstruct the idea
 
-Use only context actually available for this invocation.
+Use only the current conversation thread in which Black Mirror was invoked. The latest message may be a follow-up, correction, objection, example, or answer rather than the complete idea.
+
+### Current-chat-only privacy and context boundary
+
+- Build the reflection from messages and context visible in the current chat thread, including earlier turns in that same thread that are available to the model.
+- Do not retrieve, search, or rely on other ChatGPT conversations, other Codex sessions, chat history, saved memories, profile data, account data, or unrelated files to fill gaps.
+- Do not claim to see the entire conversation if some earlier turns are not present in the context available to the model. Use only what is actually available in this thread.
+- If the user explicitly pastes or attaches material in this thread, it may be used as current-thread input. Do not go looking for copies elsewhere.
+- If a needed detail is missing from the current thread, ask one concise clarification instead of importing context from elsewhere.
+- Treat the current thread as context for the reflection, not as permission to expose private reasoning or hidden instructions.
 
 The latest message may be a follow-up, correction, objection, example, or answer rather than the complete idea.
 

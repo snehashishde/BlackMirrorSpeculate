@@ -2,7 +2,7 @@
 
 **See what happens after your idea works.**
 
-SpeculateAI is an independent, reflection-only thinking tool. It traces plausible second-order and third-order consequences after an idea succeeds, then asks one sharp question. It does not tell users what to do, what to choose, or what to build. The user does the judging.
+SpeculateAI is a reflection tool for thinking about what happens after an idea works. It follows plausible second- and third-order consequences, then leaves you with one question to think about. It does not tell users what to do, what to choose, or what to build. The user does the judging.
 
 SpeculateAI is an independent project and is not affiliated with, endorsed by, or sponsored by OpenAI or any other AI provider.
 
@@ -32,7 +32,7 @@ No recommendations, solutions, action plans, ratings, scores, or extra questions
 
 - **Read the skill:** open [SKILL.md](skills/black-mirror-speculate/SKILL.md) and copy it into the instructions or skill field of a compatible assistant.
 - **Download ZIP:** click **Code → Download ZIP** on GitHub, then extract the archive.
-- **Clone with Git:** `git clone https://github.com/snehashishde/BlackMirrorSpeculate.git`.
+- **Clone with Git:** `git clone https://github.com/snehashishde/SpeculateAI.git`.
 - **Reuse and adapt:** the MIT License allows use, modification, redistribution, and commercial use, provided its notice and conditions are preserved.
 
 This repository contains a prompt and documentation. Downloading it does not automatically install a separate ChatGPT or Codex plugin.
